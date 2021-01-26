@@ -2,7 +2,7 @@
 
 # H-DAS: Unchain the Search Space with Hierarchical Differentiable Architecture Search
 
-PyTorch implementation of [Unchain the Search Space with Hierarchical Differentiable Architecture Search](https://arxiv.org/abs/XXXX.xxxxx), supporting DDP (DistributedDataParallel) and [Apex](https://github.com/NVIDIA/apex) Amp (Automatic Mixed Precision).
+PyTorch implementation of [Unchain the Search Space with Hierarchical Differentiable Architecture Search](https://arxiv.org/abs/2101.04028), supporting DDP (DistributedDataParallel) and [Apex](https://github.com/NVIDIA/apex) Amp (Automatic Mixed Precision).
 
 ## Framework
 
